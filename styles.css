@@ -59,3 +59,8 @@ p {
   color: #7b879d;
   font-weight: normal;
 }
+@media all and (min-width: 375px) and (max-width: 1440px) {
+  .main-section {
+    width: 256px;
+  }
+}
